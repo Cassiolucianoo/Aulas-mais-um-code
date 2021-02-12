@@ -13,14 +13,13 @@
 
 ## Conteúdo programático
 
-### 1 - Introdução  -  Javascript: Fundamentos 
-*    Organização
-*    Executando Primeiro codigo
-*    Comentários de Código
-*    O  Var, Let e Const
-*    Tipagem Fraca  tipagem dinamica 
-*    Number
-*    function 
+### 1 - Introdução  -  Javascript: Fundamentos iniciais 
+*    Organização                   ok   11/02 
+*    Executando Primeiro codigo    ok   11/02 
+*    Comentários de Código         ok   11/02 
+*    O  Var, Let e Const           ok   11/02 
+*    Tipagem                       ok   11/02 
+*    Number                        ok   11/02                
 *    Math
 *    JavaScript: String
 *    Template Strings
