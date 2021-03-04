@@ -19,9 +19,11 @@
 *    Comentários de Código         ok   11/02 
 *    O  Var, Let e Const           ok   11/02 
 *    Tipagem                       ok   11/02 
-*    Number                        ok   11/02                
-*    Math
-*    JavaScript: String
-*    Template Strings
-*    JavaScript: Boolean
+*    Number                        ok   11/02  
 
+### 1 - Introdução parte2
+*    Math                          OK   03/03
+*    string                        OK   03/03
+*    template String               Ok   03/03         
+*    Boolean                       OK   03/03
+*    array                         OK   03/03
