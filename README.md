@@ -27,3 +27,10 @@
 *    template String               Ok   03/03         
 *    Boolean                       OK   03/03
 *    array                         OK   03/03
+
+### 1 - Introdução parte3 
+*    Operadores Lógicos
+*    Ifs encadeados
+*    Trabalhando com if
+*    Operadores Lógicos encadeados
+*    Operador lógico
